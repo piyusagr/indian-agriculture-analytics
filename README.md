@@ -142,5 +142,12 @@ Contributions are welcome! If you'd like to contribute, follow these steps:
 5. Create a pull request.
 
 ## ScreenShots:
+**Table1:**
 ![image](https://github.com/user-attachments/assets/2b520bf7-979f-459e-a65c-a614e9019c0c)
-![image](https://github.com/user-attachments/assets/7c905207-5e10-4bd2-a8e5-992bc99d3cea)
+![image](https://github.com/user-attachments/assets/cbd39975-8c12-4cc2-9ba1-698080836be2)
+![image](https://github.com/user-attachments/assets/006cc1e7-2f34-47e7-8ac6-4ba57578840e)
+![image](https://github.com/user-attachments/assets/883b5c62-c414-4291-8836-f5ecf7f524c8)
+![image](https://github.com/user-attachments/assets/562500f1-1bfa-4823-846d-cd20cf571942)
+
+**Table 2:**
+![image](https://github.com/user-attachments/assets/4121e0c0-0f6e-45fb-a584-fed82d77187e)
